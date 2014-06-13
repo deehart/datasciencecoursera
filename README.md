@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Class project pt. 2
+Class project pt. 3
